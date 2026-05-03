@@ -23,22 +23,22 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
-| 🔍 **Smart Autocomplete** | Fuzzy search across 60+ INCI ingredient names as you type |
-| 📋 **Manual Input** | Add ingredients with name, concentration (%), and category |
-| 📤 **CSV Bulk Upload** | Drag & drop or browse to upload entire formulations at once |
-| ⚡ **Real-time Analysis** | Instant COFEPRIS compliance validation per ingredient |
-| 📊 **Results Dashboard** | Visual breakdown with status badges, concentration bars, and notes |
-| 📄 **PDF Export** | Generate professional compliance reports ready for submission |
-| 🎨 **Premium UI** | Dark glassmorphic theme inspired by Vercel, with smooth animations |
-| 📱 **Responsive** | Desktop-first design that works beautifully on all screen sizes |
+|  **Smart Autocomplete** | Fuzzy search across 60+ INCI ingredient names as you type |
+|  **Manual Input** | Add ingredients with name, concentration (%), and category |
+|  **CSV Bulk Upload** | Drag & drop or browse to upload entire formulations at once |
+|  **Real-time Analysis** | Instant COFEPRIS compliance validation per ingredient |
+|  **Results Dashboard** | Visual breakdown with status badges, concentration bars, and notes |
+|  **PDF Export** | Generate professional compliance reports ready for submission |
+|  **Premium UI** | Dark glassmorphic theme inspired by Vercel, with smooth animations |
+|  **Responsive** | Desktop-first design that works beautifully on all screen sizes |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -79,16 +79,16 @@ The app will open at **http://localhost:5173**
 
 ---
 
-## 🎯 How to Use
+##  How to Use
 
 1. **Navigate** to the Checker section on the homepage
 2. **Add ingredients** manually using the smart autocomplete, or **upload a CSV** file
 3. Click **"Analyze Compliance"** to run the formulation against COFEPRIS regulations
 4. **Review results** — each ingredient gets a compliance status:
-   - ✅ **Compliant** — within safe limits
-   - ⚠️ **Restricted** — allowed but concentration-limited
-   - 🚫 **Banned** — prohibited in cosmetics
-   - ⚡ **Exceeds Limit** — concentration above safe threshold
+   -  **Compliant** — within safe limits
+   -  **Restricted** — allowed but concentration-limited
+   -  **Banned** — prohibited in cosmetics
+   -  **Exceeds Limit** — concentration above safe threshold
 5. **Export as PDF** for documentation or regulatory submission
 
 ### CSV Format
@@ -106,7 +106,7 @@ A sample file is included at `public/sample-formulation.csv`.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cosmetiq/
@@ -197,7 +197,7 @@ curl -X POST http://localhost:3001/api/analyze \
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -212,7 +212,7 @@ curl -X POST http://localhost:3001/api/analyze \
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 The app uses a custom dark theme with these design tokens:
 
@@ -224,6 +224,6 @@ The app uses a custom dark theme with these design tokens:
 
 ---
 
-## 📜 License
+##  License
 
 MIT — Built for educational and portfolio purposes. Not affiliated with COFEPRIS.
