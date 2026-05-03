@@ -5,7 +5,7 @@
 <h1 align="center">CosmetiQ</h1>
 
 <p align="center">
-  <strong>AI-Powered Cosmetic Compliance Checker for COFEPRIS Regulations</strong>
+ 
 </p>
 
 <p align="center">
