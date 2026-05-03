@@ -37,6 +37,13 @@
 |  **Responsive** | Desktop-first design that works beautifully on all screen sizes |
 
 ---
+##  Screenshots
+1)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07cc8f5b-8893-43bf-b447-1574f32915d0" />
+2)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/563164bf-1f03-48f4-a17a-079c50359657" />
+3)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea718ea2-d4df-4c48-b563-847a2fc4e7a6" />
+4)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eddf8dbd-4b23-4352-9ac7-e15490a8a746" />
+
+
 
 ## Quick Start
 
