@@ -1,27 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/🧪_CosmetiQ-COFEPRIS_Compliance-7C3AED?style=for-the-badge&labelColor=0a0a0f" alt="CosmetiQ" />
-</p>
 
-<h1 align="center">CosmetiQ</h1>
-
-<p align="center">
- 
-</p>
-
-<p align="center">
-  Analyze cosmetic formulations against Mexico's COFEPRIS regulatory database.<br/>
-  Identify banned, restricted, and non-compliant ingredients in seconds.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Express-5-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Framer_Motion-12-FF0050?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
-
----
 
 ##  Features
 
