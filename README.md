@@ -38,11 +38,10 @@
 
 ---
 ##  Screenshots
-1)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07cc8f5b-8893-43bf-b447-1574f32915d0" />
-2)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/563164bf-1f03-48f4-a17a-079c50359657" />
-3)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea718ea2-d4df-4c48-b563-847a2fc4e7a6" />
-4)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eddf8dbd-4b23-4352-9ac7-e15490a8a746" />
-
+### 1. <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/7887ddd1-d64b-408c-9325-43bdebed0704" />
+### 2.<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/1d6cadf8-7c3e-41a3-8167-2f18abeaa2c9" />
+### 3.<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/3a85b57d-3c32-4e68-ab42-469c4a02a1b5" />
+### 4.<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/1dfd318c-d7e4-4eb3-adf8-ebf1f318bc95" />
 
 
 ## Quick Start
